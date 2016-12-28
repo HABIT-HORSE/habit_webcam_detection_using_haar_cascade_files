@@ -1,0 +1,1 @@
+detect.py haarcascade_frontalcatface_extended.xml
